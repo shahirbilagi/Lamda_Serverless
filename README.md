@@ -1,0 +1,1 @@
+This repository contains Netflix clone files which has been used for praticing AWS Lamda functions.
